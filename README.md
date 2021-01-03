@@ -7,6 +7,7 @@
 <br>
 [![institution-korea-university][korea-university-image]][korea-university-cs-url]
 ![course-system-programming][course-cose322]
+![grade-b+][grade-b+]
 
 > 리눅스에서 동작하는 Ext4와 F2FS의 블록 쓰기 작업을 프로파일링하는 프로젝트입니다.
 
